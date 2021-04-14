@@ -1,2 +1,2 @@
-# ActIndiv3
+# Actividad Individual 3
 A3 MUTICORE-MULTIPROCE-RECURSIVO 
